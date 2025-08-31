@@ -1,6 +1,7 @@
 [
   {
-    "name": "3 Skulls of the Toltecs",
+    "displayName": "3 Skulls of the Toltecs",
+    "sortName": "3 Skulls of the Toltecs",
     "release": 1996,
     "note": "ScummVM",
     "popularity": 500,
@@ -12,10 +13,11 @@
     "link": "https://collectionchamber.blogspot.com/2015/05/3-skulls-of-toltecs.html"
   },
   {
-    "name": "9: The Last Resort",
+    "displayName": "9: The Last Resort",
+    "sortName": "9: The Last Resort",
     "release": 1996,
     "note": "Windows 3.1",
-    "popularity": 110,
+    "popularity": 000,
     "rating": 7.0,
     "genre": ["Adventure"],
     "system": ["Windows 3.1"],
@@ -24,7 +26,8 @@
     "link": "http://collectionchamber.blogspot.co.uk/2017/08/9-last-resort.html"
   },
   {
-    "name": "Disney's 101 Dalmatians: Escape from DeVil Manor",
+    "displayName": "Disney's 101 Dalmatians: Escape from DeVil Manor",
+    "sortName": "Disney's 101 Dalmatians: Escape from DeVil Manor",
     "release": 1997,
     "note": "PC-DOS",
     "popularity": 100,
@@ -36,7 +39,8 @@
     "link": "http://collectionchamber.blogspot.co.uk/p/blog-page_24.html"
   },
   {
-    "name": "Abduction",
+    "displayName": "Abduction",
+    "sortName": "Abduction",
     "release": 1998,
     "note": "Amiga",
     "popularity": 400,
@@ -48,10 +52,11 @@
     "link": "https://collectionchamber.blogspot.com/p/abduction.html"
   },
   {
-    "name": "Ace Ventura",
+    "displayName": "Ace Ventura",
+    "sortName": "Ace Ventura",
     "release": 1996,
     "note": "Windows 3.1",
-    "popularity": 100,
+    "popularity": 000,
     "rating": 6.5,
     "genre": ["Adventure"],
     "system": ["Windows 3.1"],
@@ -60,10 +65,11 @@
     "link": "http://collectionchamber.blogspot.co.uk/2016/04/ace-ventura.html"
   },
   {
-    "name": "Adventures of Down Under Dan, The",
+    "displayName": "The Adventures of Down Under Dan",
+    "sortName": "Adventures of Down Under Dan, The",
     "release": 1995,
     "note": "PC-DOS",
-    "popularity": 100,
+    "popularity": 000,
     "rating": 5.0,
     "genre": ["Adventure"],
     "system": ["PC-DOS"],
@@ -72,7 +78,8 @@
     "link": "https://collectionchamber.blogspot.com/2020/09/the-adventures-of-down-under-dan.html"
   },
   {
-    "name": "Alida: The Enigmatic Giant",
+    "displayName": "Alida: The Enigmatic Giant",
+    "sortName": "Alida: The Enigmatic Giant",
     "release": 2004,
     "note": "Windows",
     "popularity": 000,
@@ -82,8 +89,31 @@
     "tags": ["Point-&amp;-Click", "Myst Clone", "Fantasy", "Hidden Gem"],
     "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikmMLVcux5Yqyq8fLIhB6vW9UcpZU9pr_w0GxZNw2Gk3DbBoSLX2GusY0C7dchMfL84jFFJ4J5IwDdTLmhKD3CXwdHTmYrW_W_qXTb61y0y8xYR8Rs0YqvUDMQFZir_0bZztl_DRB1SmWPiipCEMuPyadISut2PWozsgGRcsKIjSpvULpSwMcPeHg0g7g/s320/Try%20-%20Alida.jpg",
     "link": "https://collectionchamber.blogspot.com/p/alida-enigmatic-giant.html"
+  },
+  {
+    "displayName": "Alien Incident",
+    "sortName": "Alien Incident",
+    "release": 1996,
+    "note": "Windows",
+    "popularity": 550,
+    "rating": 8.0,
+    "genre": ["Adventure"],
+    "system": ["Windows"],
+    "tags": ["Aliens"],
+    "img": "https://via.placeholder.com/200x150",
+    "link": "https://collectionchamber.blogspot.com/p/alien-incident.html"
+  },
+  {
+    "name": "Amber: Journey's Beyond",
+    "sortName": "Amber: Journey's Beyond",
+    "release": 1996,
+    "note": "Haunted House",
+    "popularity": 470,
+    "rating": 7.2,
+    "genre": ["Adventure"],
+    "system": ["Windows"],
+    "tags": ["Ghosts", "Weird"],
+    "img": "https://via.placeholder.com/200x150",
+    "link": "https://collectionchamber.blogspot.com/p/amber-journeys-beyond.html"
   }
 ]
-
-
-
