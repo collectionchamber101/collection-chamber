@@ -1,7 +1,6 @@
 [
   {
     "name": "3 Skulls of the Toltecs",
-    "name1": "3 Skulls of the Toltecs",
     "release": 1996,
     "note": "ScummVM",
     "popularity": 500,
@@ -14,7 +13,6 @@
   },
   {
     "name": "9: The Last Resort",
-    "name1": "9: The Last Resort",
     "release": 1996,
     "note": "Windows 3.1",
     "popularity": 110,
@@ -27,7 +25,6 @@
   },
   {
     "name": "Disney's 101 Dalmatians: Escape from DeVil Manor",
-    "name1": "Disney's 101 Dalmatians: Escape from DeVil Manor",
     "release": 1997,
     "note": "PC-DOS",
     "popularity": 100,
@@ -40,7 +37,6 @@
   },
   {
     "name": "Abduction",
-    "name1": "Abduction",
     "release": 1998,
     "note": "Amiga",
     "popularity": 400,
@@ -53,7 +49,6 @@
   },
   {
     "name": "Ace Ventura",
-    "name1": "Ace Ventura",
     "release": 1996,
     "note": "Windows 3.1",
     "popularity": 100,
@@ -66,7 +61,6 @@
   },
   {
     "name": "Adventures of Down Under Dan, The",
-    "name1": "The Adventures of Down Under Dan",
     "release": 1995,
     "note": "PC-DOS",
     "popularity": 100,
@@ -79,7 +73,6 @@
   },
   {
     "name": "Alida: The Enigmatic Giant",
-    "name1": "Alida: The Enigmatic Giant",
     "release": 2004,
     "note": "Windows",
     "popularity": 000,
@@ -91,5 +84,6 @@
     "link": "https://collectionchamber.blogspot.com/p/alida-enigmatic-giant.html"
   }
 ]
+
 
 
