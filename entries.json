@@ -17,7 +17,7 @@
     "name1": "9: The Last Resort",
     "release": 1996,
     "note": "Windows 3.1",
-    "popularity": 000,
+    "popularity": 110,
     "rating": 7.0,
     "genre": ["Adventure"],
     "system": ["Windows 3.1"],
@@ -56,7 +56,7 @@
     "name1": "Ace Ventura",
     "release": 1996,
     "note": "Windows 3.1",
-    "popularity": 000,
+    "popularity": 100,
     "rating": 6.5,
     "genre": ["Adventure"],
     "system": ["Windows 3.1"],
@@ -69,7 +69,7 @@
     "name1": "The Adventures of Down Under Dan",
     "release": 1995,
     "note": "PC-DOS",
-    "popularity": 000,
+    "popularity": 100,
     "rating": 5.0,
     "genre": ["Adventure"],
     "system": ["PC-DOS"],
@@ -91,4 +91,5 @@
     "link": "https://collectionchamber.blogspot.com/p/alida-enigmatic-giant.html"
   }
 ]
+
 
