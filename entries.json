@@ -1,0 +1,50 @@
+[
+  {
+    "name": "3 Skulls of the Toltecs",
+    "release": 1996,
+    "note": "PC-DOS",
+    "popularity": 500,
+    "rating": 8.2,
+    "genre": "Adventure",
+    "system": "PC-DOS",
+    "tags": ["Cowboys"],
+    "img": "https://via.placeholder.com/200x150",
+    "link": "https://collectionchamber.blogspot.com/p/3-skulls-of-toltecs.html"
+  },
+  {
+    "name": "Alien Incident",
+    "release": 1996,
+    "note": "Windows",
+    "popularity": 550,
+    "rating": 8.0,
+    "genre": "Adventure",
+    "system": "Windows",
+    "tags": ["Aliens"],
+    "img": "https://via.placeholder.com/200x150",
+    "link": "https://collectionchamber.blogspot.com/p/alien-incident.html"
+  },
+  {
+    "name": "Amber: Journey's Beyond",
+    "release": 1996,
+    "note": "Haunted House",
+    "popularity": 470,
+    "rating": 7.2,
+    "genre": "Adventure",
+    "system": "Windows",
+    "tags": ["Ghosts", "Weird"],
+    "img": "https://via.placeholder.com/200x150",
+    "link": "https://collectionchamber.blogspot.com/p/amber-journeys-beyond.html"
+  },
+  {
+    "name": "Ace Ventura",
+    "release": 1996,
+    "note": "ScummVM",
+    "popularity": 520,
+    "rating": 6.8,
+    "genre": "Adventure",
+    "system": "ScummVM",
+    "tags": ["Weird"],
+    "img": "https://via.placeholder.com/200x150",
+    "link": "https://collectionchamber.blogspot.com/p/ace-ventura.html"
+  }
+]
