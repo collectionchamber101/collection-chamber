@@ -6070,7 +6070,7 @@
     "rating": 6.5,
     "dateAdded": "2015-07-04",
     "genre": ["Platform", "Compilation"],
-    "system": ["Windows", "PC-DOS", "Amiga", "ScummVM"],
+    "system": ["SNES"],
     "tags": ["Robocop", "2D Platform", "Science-Fiction", "Robots!", "Movies"],
     "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSg4o5OP7ZU0jgZAAstyUukvRNr272uckq1lCkOZmstDxafknyKJBT1ujfdi-K2f-c-n-3yh25l-scqehDXANcjuLovEvAIHaw0BmwMtX6j5cKJeJj0UMgIjaudbnV0vaza0MLAfFczv4/s320/Try+-+RoboCop+Vs+Terminator.jpg",
     "link": "http://collectionchamber.blogspot.co.uk/2015/07/robocop-vs-terminator.html"
@@ -10290,3 +10290,4 @@
     "link": "https://collectionchamber.blogspot.com/p/woodspell-enchanted-forest-of-learning.html"
   }
 ]
+
